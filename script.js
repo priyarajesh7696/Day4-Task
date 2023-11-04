@@ -269,6 +269,7 @@ let primeArrow=(numArray)=>{
 }
 primeArrow(([1,2,3,4,5,6,7,8,9]));
 // // Return all the palindromes in an array
+console.log("PALINDROME");
 let paliArrow=(arr)=>
     {
        let result =[];
